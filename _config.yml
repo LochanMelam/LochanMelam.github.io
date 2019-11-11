@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -31,9 +31,9 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: lochan.melam
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: lochan_melam28
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
